@@ -9,3 +9,8 @@
     background-color: aquamarine;
     color: black;
 }
+
+.btn{
+    display: flex;
+    justify-content: space-between;
+}
